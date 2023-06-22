@@ -18,7 +18,7 @@ Check if all of them work correctly:
 - `git --version`
 - `node --version`
 - `npm --version`
-- `docker run --name some-postgres -e POSTGRES_PASSWORD=mysecretpassword -d postgres
+- `docker run --name some-postgres -e POSTGRES_PASSWORD=mysecretpassword -d postgres`
 
 Windows:
 - https://docs.microsoft.com/en-us/windows/wsl/install-win10
